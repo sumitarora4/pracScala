@@ -53,7 +53,6 @@ object WhatsAFunction extends App{
   println(adder3(40))
 
   // oR
-
   println(superAdder(3)(40))
 
 

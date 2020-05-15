@@ -1,4 +1,4 @@
-package lectures.par2OOP
+package lectures.part3fp
 
 object Exceptions extends App{
 
@@ -32,5 +32,23 @@ val x: String = null
   }
 
   println(potentialFail)
+
+
+//   custom type exception
+  /* class MyException extends Exception
+  val exception = new MyException
+  throw exception */
+
+//   Out of Memory error
+//  val array = Array.ofDim(Int.MaxValue)
+
+//   StackOver Flow Error
+//  def infinite : Int = 1 + infinite
+//    val noLimit = infinite
+
+
+
+
+
 
 }

@@ -13,7 +13,7 @@ object TupleAndMaps extends App{
   // Map - Keys -> Values
   val aMap: Map[String, Int] = Map()
 
-  val phoneBook = Map(("Jim", 555), "Sumit" -> 1525, "SS" -> 8888).withDefaultValue(-1)
+  val phoneBook = Map(("Jim", 555), "Sumit" -> 1525, "JIM" -> 8888).withDefaultValue(-1)
   // here a -> b is sugar for (a,b)
 
   println(phoneBook)

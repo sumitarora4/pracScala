@@ -85,4 +85,32 @@ object Functions extends App {
     else concatnateTailRec(aSting, n -1, aSting + accumulator)
   }
   println(concatnateTailRec("hello",3, "new"))
+
+
+  val str = "Sumit Kuamr Arora"
+  var strCharAry = str.toList
+  println(strCharAry)
+
+  val charAryStr = strCharAry.mkString
+  println(charAryStr)
+
+  val filledArray = Array.fill(' ')(strCharAry)
+  println("filledArray = "+filledArray)
+
+//  val mkString = filledArray.mkString
+//  println("mkString = "+mkString)
+
+//  strCharAry.
+
+//  var dd = str.replaceAll("^[a-zA-Z0-9_]","")
+  println("removeAll="+strCharAry.mkString)
+
+
+  val token = "234k234k234k"
+  val hashValue = token.hashCode
+  println(hashValue)
+
+
+
+
 }

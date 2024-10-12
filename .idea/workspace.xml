@@ -1,39 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6332549d-8f93-4251-915b-0a3d6781f46c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lectures/part3fp/PartialFunctionCaseClass.scala" afterDir="false" />
+    <list default="true" id="6332549d-8f93-4251-915b-0a3d6781f46c" name="Default Changelist" comment="PartiallyAppliedFunction and PatternMatching">
+      <change afterPath="$PROJECT_DIR$/src/REexercise/MyList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scala99problems/RangeList.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part3fp/PartialFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part3fp/PartialFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lectures/Functions$.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lectures/Functions$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lectures/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lectures/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/MyList.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/MyList.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/Functions.scala" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/PartialFunction.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/PartialFunctionCaseClass.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,94 +61,52 @@
         <option value="$PROJECT_DIR$/src/lectures/part3fp/Options.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part3fp/PartialFunction.scala" />
         <option value="$PROJECT_DIR$/src/lectures/part3fp/PartialFunctionCaseClass.scala" />
+        <option value="$PROJECT_DIR$/src/lectures/part3fp/PartiallyAppliedFunction.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="20" />
-    <option name="width" value="1280" />
-    <option name="height" value="710" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectId" id="2EesOLnKG1ptgJbCodY7wpgCN6w" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pracScala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pracScala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pracScala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pracScala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lectures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pracScala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lectures" type="462c0819:PsiDirectoryNode" />
-              <item name="part3fp" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600948599734" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.PartialFunctionCaseClass">
-    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.Options" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Functions">
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.Functions" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PartialFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.PartialFunction" />
-      <module name="ScalaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="PATTERN" value="lectures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +127,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequences" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.Sequences" />
+    <configuration name="PartiallyAppliedFunction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.PartiallyAppliedFunction" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangeList" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="scala99problems.RangeList" />
+      <module name="ScalaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scala99problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,14 +168,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PartialFunctionCaseClass" />
-        <item itemvalue="Application.PartialFunction" />
-        <item itemvalue="Application.Options" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.RangeList" />
         <item itemvalue="Application.TupleAndMaps" />
-        <item itemvalue="Application.Sequences" />
+        <item itemvalue="Application.PartiallyAppliedFunction" />
+        <item itemvalue="Application.PartialFunctionCaseClass" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -265,14 +223,20 @@
       <option name="project" value="LOCAL" />
       <updated>1578368856212</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PartiallyAppliedFunction and PatternMatching">
+      <created>1600953579978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600953579978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28432956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -282,7 +246,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3796034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37925446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,7 +265,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118120804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28029078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -311,15 +275,15 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26062322" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37925446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31444758" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.31442463" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,11 +294,23 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
     <MESSAGE value="commit3" />
     <MESSAGE value="commit5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit5" />
+    <MESSAGE value="PartiallyAppliedFunction and PatternMatching" />
+    <option name="LAST_COMMIT_MESSAGE" value="PartiallyAppliedFunction and PatternMatching" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties" />
@@ -371,23 +347,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise/MyList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/AnonymousFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/Sequences.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/Functions.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
@@ -420,35 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/MapFlatMapFilterFor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/TupleAndMaps.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/Options.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/par2OOP/Exceptions.scala" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="178" column="20" lean-forward="true" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/PartialFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -456,10 +387,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/HandlingFailure.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#26#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/AnonymousFunctions.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/MapFlatMapFilterFor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/Sequences.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/TupleAndMaps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/Options.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part4PatternMatching/PatternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise/MyList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/PartialFunctionCaseClass.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="680">
           <caret line="40" column="63" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lectures/part3fp/PartiallyAppliedFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
         </state>
       </provider>
     </entry>

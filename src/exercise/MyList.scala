@@ -54,7 +54,7 @@ object ListTest extends App{
 
   println(lst2.isEmpty)
 
-  println(lst2.toString)*/
+  println(lst2.toString)*/ 
 
   val listofInterger: MyList[Int] = new Cons(1, new Cons(2, new Cons(3, Empty)))
   val listofStrings: MyList[String]  = new Cons("Hello", new Cons("Scala",Empty))
